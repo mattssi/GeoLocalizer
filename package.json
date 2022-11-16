@@ -1,0 +1,22 @@
+{
+  "name": "geolocal",
+  "version": "1.0.0",
+  "description": "Programita de GeoLocalizacion",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masi y pako",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.16",
+    "axios": "^0.27.2",
+    "chalk-animation": "^2.0.2",
+    "colors": "^1.4.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.10",
+    "node-geocoder": "^4.2.0",
+    "nodemon": "^2.0.19"
+  }
+}
